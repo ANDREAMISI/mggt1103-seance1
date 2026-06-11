@@ -1,5 +1,3 @@
 
-# Version Production
-
-# Version Test
+# Projet MGGT1103 - Infrastructure de Production (Version Test Intégrée)
 
